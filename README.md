@@ -20,8 +20,8 @@ Hello! I'm Mell, but you can also call me Honey. I'm a technology student with a
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honeyz0&theme=transparent&bg_color=000&border_color=ffe100&show_icons=true&icon_color=ffe100&title_color=ffe100&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=honeyz0&layout=compact&bg_color=000&border_color=ffe100&title_color=ffe100&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honeyz0&theme=transparent&bg_color=000&border_color=ffe100&show_icons=true&icon_color=ffe100&title_color=ffe100&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=honeyz0&layout=compact&bg_color=000&border_color=ffe100&title_color=ffe100&text_color=FFFF)
 
 <details align="left">
   <summary></summary> 
