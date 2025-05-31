@@ -13,7 +13,7 @@ Hello! I'm Mell, but you can also call me Honey. I'm a technology student with a
 
 ### Conecte-se comigo
 
-<img src="https://github.com/user-attachments/assets/191e3c85-7ff4-4adf-9976-6dd0228f3982" width="17"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffe100&color:FFF)](https://www.linkedin.com/in/mell-teixeira03/)
+<a href="https://www.linkedin.com/in/mell-teixeira03/"> <img src="https://github.com/user-attachments/assets/191e3c85-7ff4-4adf-9976-6dd0228f3982" width="16"/>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffe100&color:FFF)](https://www.linkedin.com/in/mell-teixeira03/)</a> 
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=ffe100)](https://x.com/honeydev__)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=protonmail&logoColor=ffe100)](mailto:honeydev25@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ffe100)](https://discord.com/channels/@honeyz___/)
